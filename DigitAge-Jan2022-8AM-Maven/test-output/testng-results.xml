@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8095" started-at="2022-02-07T11:29:25Z" finished-at="2022-02-07T11:29:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8095" started-at="2022-02-07T11:29:25Z" finished-at="2022-02-07T11:29:33Z">
+      <class name="testBatches.TestBatches">
+        <test-method status="PASS" signature="runUserChoice()[pri:0, instance:testBatches.TestBatches@37b70343]" name="runUserChoice" duration-ms="6513" started-at="2022-02-07T11:29:25Z" finished-at="2022-02-07T11:29:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runUserChoice -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:testBatches.TestBatches@37b70343]" name="cleanUp" is-config="true" duration-ms="1530" started-at="2022-02-07T11:29:31Z" finished-at="2022-02-07T11:29:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- testBatches.TestBatches -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
